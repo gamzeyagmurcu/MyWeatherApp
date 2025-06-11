@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2196F3</color> <!-- Güneşli hava -->
+    <color name="gray">#757575</color> <!-- Yağmurlu hava -->
+    <color name="dark_gray">#616161</color> <!-- Bulutlu hava -->
+    <color name="light_blue">#ADD8E6</color> <!-- Karlı hava -->
+    <color name="gray_blue">#78909C</color> <!-- Gri-Mavi -->
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="default_bg">#FFFFFF</color> <!-- Varsayılan arka plan -->
+</resources>
