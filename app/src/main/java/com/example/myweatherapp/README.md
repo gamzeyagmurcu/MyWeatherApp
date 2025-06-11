@@ -36,4 +36,4 @@ private final String API_KEY = "YOUR_API_KEY_HERE";
 
 ## 📸 Screenshot
 
-![Main Screen](screenshots/screenshot1.png)
+![Main Screen](screenshots/screenshot1.jpg)
