@@ -33,3 +33,5 @@ You need an API key from [OpenWeatherMap](https://openweathermap.org/):
 
 ```java
 private final String API_KEY = "YOUR_API_KEY_HERE";
+
+👨‍💻 Developed by Gamze Yağmurcu
